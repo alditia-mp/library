@@ -6,7 +6,8 @@ require_once 'DigitalBook.php';
 $buku1 = new Book("Apa itu Apel", "Albert Einstein", "Tersedia");
 $buku2 = new Book("Windows vs Linux", "Elon Musk", "Tersedia");
 $buku3 = new Book("The Eras Tour", "Taylor Swift", "Tersedia");
-$ebook1 = new DigitalBook("Belajar PHP OOP", "Rasmus Lerdorf", "Tersedia", 5, "PDF");
+$ebook1 = new DigitalBook("Pendekar Nomor 1", "Kleo Juice", "Tersedia", 5, "PDF");
+$ebook2 = new DigitalBook("Mengapa Langit Biru", "Rasmus Rismus", "Tersedia", 5, "PDF");
 
 $member1 = new Member("Alditia M. Pirmansyah", "2410631250081");
 $member2 = new Member("Nurfadil Irfan", "2410631250082");

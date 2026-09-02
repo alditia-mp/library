@@ -13,6 +13,6 @@ class Book {
     public function bookInfo() {
         return "Judul: " . $this->judul . "\n" .
                "Penulis: " . $this->penulis . "\n" .
-               "Status: " . $this->status . "\n" . "\n";
+               "Status: " . $this->status . "\n" . "\n" . "\n";;
     }
 }

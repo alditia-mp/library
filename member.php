@@ -7,7 +7,7 @@ class Member {
     public function __construct($name, $memberId) {
         $this->name = $name;
         $this->memberId = $memberId;
-        $this->peminjaman = "-";
+        $this->peminjaman = "--";
     }
 
     public function memberInfo() {
