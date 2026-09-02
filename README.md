@@ -1,25 +1,14 @@
-Demo 1
+# Library OOP Mini
 
-SEMESTER 5\PWF\library> git init  
-Initialized empty Git repository in SEMESTER 5/PWF/library/.git/
-SEMESTER 5\PWF\library> git status
+## Description
+Sistem Peminjaman Lirbary Sederhana menggunakan PHP.
 
-SEMESTER 5\PWF\library> git add . 
-SEMESTER 5\PWF\library> git status       
+## Requirements
+- PHP
 
-SEMESTER 5\PWF\library> git commit -m "first commit"              
-    
-SEMESTER 5\PWF\library> git status       
-SEMESTER 5\PWF\library> git branch -M main          
-SEMESTER 5\PWF\library> git remote add origin https://github.com/alditia-mp/library.git
-SEMESTER 5\PWF\library> git push -u origin main
-SEMESTER 5\PWF\library> git status       
+## Installation
+1. Clone repository ini
+2. Jalankan lewat terminal: `php index.php`
 
-SEMESTER 5\PWF\library> git status
-SEMESTER 5\PWF\library> git status
-SEMESTER 5\PWF\library> git status
-SEMESTER 5\PWF\library> git status
-SEMESTER 5\PWF\library> git status
-SEMESTER 5\PWF\library> git status       
-SEMESTER 5\PWF\library> git status
-SEMESTER 5\PWF\library> git push
+## Author
+Alditia Muhamad Pirmansyah
