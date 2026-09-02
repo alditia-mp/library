@@ -14,6 +14,6 @@ class DigitalBook extends Book {
     public function bookInfo() {
         return parent::bookInfo() .
                "Format: " . $this->format . "\n" .
-               "Ukuran File: " . $this->fileSize . " MB\n" . "\n";
+               "Ukuran File: " . $this->fileSize . " MB\n" . "\n" . "\n";
     }
 }
