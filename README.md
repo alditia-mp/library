@@ -11,4 +11,4 @@ Sistem Peminjaman Lirbary Sederhana menggunakan PHP.
 2. Jalankan lewat terminal: `php index.php`
 
 ## Author
-Alditia Muhamad Pirmansyah
+Alditia Muhamad Pirmansyah, Mahasiswa Semester 5 UNSIKA
